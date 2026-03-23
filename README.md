@@ -1,6 +1,117 @@
-# 💫 About Me:
-# Thileepan Edvin<br><br>Étudiant en 2ᵉ année de BUT Informatique à l’IUT de Montreuil (Université Paris 8)  <br>Recherche un stage en développement logiciel (8 à 14 semaines, avril à juin)  <br>Portfolio : https://edvin-dev.fr  <br><br>---<br><br># À propos de moi<br><br>Je suis étudiant en informatique, passionné par le développement logiciel et la création d’applications complètes.  <br>Au cours de ma formation, j’ai réalisé plusieurs projets en Java, JavaFX et développement web, en appliquant des concepts comme la programmation orientée objet et l’architecture MVC.<br><br>Je suis capable de concevoir et développer des applications fonctionnelles, en gérant toutes les étapes du développement, du back-end au front-end.<br><br>---<br><br># Compétences techniques<br><br>## Langages<br>- Java  <br>- Python  <br>- SQL  <br>- HTML / CSS  <br>- JavaScript  <br>- C  <br>- PHP  <br><br>## Bases de données<br>- PostgreSQL  <br>- MySQL  <br>- MongoDB  <br><br>## Outils<br>- Git / GitHub  <br>- JavaFX  <br>- VS Code  <br>- VirtualBox  <br><br>## Concepts<br>- Programmation Orientée Objet (POO)  <br>- Architecture MVC  <br>- API REST  <br>- Structures de données  <br>- Modélisation relationnelle (MCD / MLD)  <br><br>---<br><br># Projets<br><br>## NEMESIA — Jeu 2D en Java/JavaFX<br>- Développement d’un jeu inspiré de Terraria  <br>- Gestion des déplacements, du saut, de la gravité et des collisions  <br>- Implémentation d’un système d’inventaire et de dégâts  <br>- Utilisation d’une architecture MVC  <br><br>## Machine virtuelle et environnement serveur<br>- Installation et configuration d’une machine virtuelle sous Linux  <br>- Mise en place d’Apache, PHP et MySQL/PostgreSQL  <br>- Création d’un environnement de développement complet  <br><br>## Base de données entreprise<br>- Conception d’une base de données avec MCD / MLD  <br>- Réalisation de requêtes SQL (création, insertion, jointures)  <br>- Travail en équipe  <br><br>## Site web collaboratif<br>- Développement en HTML / CSS  <br>- Travail en équipe avec répartition des tâches  <br>- Projet lié aux Jeux Olympiques  <br><br>## Site de gestion de buvette<br>- Développement d’un site dynamique en PHP et JavaScript  <br>- Utilisation de MySQL pour la gestion des données  <br>- Interface utilisateur avec Bootstrap  <br><br>---<br><br># Expérience<br><br>- Travail en équipe sur plusieurs projets  <br>- Répartition des tâches et collaboration  <br>- Développement d’applications complètes (front-end et back-end)  <br>- Rédaction de documentation technique  <br><br>---<br><br># Formation<br><br>BUT Informatique — IUT de Montreuil (Université Paris 8)  <br>2024 – 2026  <br><br>Baccalauréat Général  <br>Spécialités : Mathématiques, NSI, Physique-Chimie  <br>2023 – 2024  <br><br>---<br><br># Langues<br><br>Anglais : B2  <br>Tamoul : Natif  <br><br>---<br><br># Contact<br><br>Email : Thileepanedvin@gmail.com  <br>GitHub : https://github.com/ThileepanEdvin  <br>LinkedIn : https://linkedin.com/in/edvin-thileepan-85  <br>Portfolio : https://edvin-dev.fr  
+# About Me
 
+# Thileepan Edvin
+
+Étudiant en 2ᵉ année de BUT Informatique à l’IUT de Montreuil (Université Paris 8)  
+Recherche un stage en développement logiciel (8 à 14 semaines, avril à juin)  
+Portfolio : https://edvin-dev.fr  
+
+---
+
+# À propos de moi
+
+Je suis étudiant en informatique, passionné par le développement logiciel et la création d’applications complètes.
+
+Au cours de ma formation, j’ai réalisé plusieurs projets en Java, JavaFX et développement web, en appliquant des concepts comme la programmation orientée objet et l’architecture MVC.
+
+Je suis capable de concevoir et développer des applications fonctionnelles, en gérant toutes les étapes du développement, du back-end au front-end.
+
+---
+
+# Compétences techniques
+
+## Langages
+- Java  
+- Python  
+- SQL  
+- HTML / CSS  
+- JavaScript  
+- C  
+- PHP  
+
+## Bases de données
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+
+## Outils
+- Git / GitHub  
+- JavaFX  
+- VS Code  
+- VirtualBox  
+
+## Concepts
+- Programmation Orientée Objet (POO)  
+- Architecture MVC  
+- API REST  
+- Structures de données  
+- Modélisation relationnelle (MCD / MLD)  
+
+---
+
+# Projets
+
+## NEMESIA — Jeu 2D en Java/JavaFX
+- Développement d’un jeu inspiré de Terraria  
+- Gestion des déplacements, du saut, de la gravité et des collisions  
+- Implémentation d’un système d’inventaire et de dégâts  
+- Utilisation d’une architecture MVC  
+
+## Machine virtuelle et environnement serveur
+- Installation et configuration d’une machine virtuelle sous Linux  
+- Mise en place d’Apache, PHP et MySQL/PostgreSQL  
+- Création d’un environnement de développement complet  
+
+## Base de données entreprise
+- Conception d’une base de données avec MCD / MLD  
+- Réalisation de requêtes SQL (création, insertion, jointures)  
+- Travail en équipe  
+
+## Site web collaboratif
+- Développement en HTML / CSS  
+- Travail en équipe avec répartition des tâches  
+- Projet lié aux Jeux Olympiques  
+
+## Site de gestion de buvette
+- Développement d’un site dynamique en PHP et JavaScript  
+- Utilisation de MySQL pour la gestion des données  
+- Interface utilisateur avec Bootstrap  
+
+---
+
+# Expérience
+
+- Travail en équipe sur plusieurs projets  
+- Répartition des tâches et collaboration  
+- Développement d’applications complètes (front-end et back-end)  
+- Rédaction de documentation technique  
+
+---
+
+# Formation
+
+BUT Informatique — IUT de Montreuil (Université Paris 8)  
+2024 – 2026  
+
+Baccalauréat Général  
+Spécialités : Mathématiques, NSI, Physique-Chimie  
+2023 – 2024  
+
+---
+
+# Langues
+
+Anglais : B2  
+Tamoul : Natif  
+
+---
+
+# Contact
+
+Email : Thileepanedvin@gmail.com  
+GitHub : https://github.com/ThileepanEdvin  
+LinkedIn : https://linkedin.com/in/edvin-thileepan-85  
+Portfolio : https://edvin-dev.fr  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Edvin Thileepan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thileepanedvin@gmail.com) 
