@@ -1,122 +1,211 @@
-# About Me
+<div align="center">
 
-# Thileepan Edvin
+# 👋 Thileepan Edvin
 
-Étudiant en 2ᵉ année de BUT Informatique à l’IUT de Montreuil (Université Paris 8)  
-Recherche un stage en développement logiciel (8 à 14 semaines, avril à juin)  
-Portfolio : https://edvin-dev.fr  
+### Étudiant en BUT Informatique — Développement web, backend et bases de données
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-edvin--dev.fr-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edvin-dev.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edvin_Thileepan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edvin-thileepan-85)
+[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thileepanedvin@gmail.com)
 
-# À propos de moi
-
-Je suis étudiant en informatique, passionné par le développement logiciel et la création d’applications complètes.
-
-Au cours de ma formation, j’ai réalisé plusieurs projets en Java, JavaFX et développement web, en appliquant des concepts comme la programmation orientée objet et l’architecture MVC.
-
-Je suis capable de concevoir et développer des applications fonctionnelles, en gérant toutes les étapes du développement, du back-end au front-end.
+</div>
 
 ---
 
-# Compétences techniques
+## 👨‍💻 À propos de moi
 
-## Langages
-- Java  
-- Python  
-- SQL  
-- HTML / CSS  
-- JavaScript  
-- C  
-- PHP  
+Je suis étudiant en **BUT Informatique à l’IUT de Montreuil — Université Paris 8**.
 
-## Bases de données
-- PostgreSQL  
-- MySQL  
-- MongoDB  
+Je m’intéresse principalement au développement d’applications web, à l’architecture backend et aux bases de données. Au cours de ma formation et de mon stage à l’AP-HP, j’ai travaillé sur plusieurs projets utilisant notamment **Java, Spring Boot, PostgreSQL, PHP, JavaScript et JavaFX**.
 
-## Outils
-- Git / GitHub  
-- JavaFX  
-- VS Code  
-- VirtualBox  
-
-## Concepts
-- Programmation Orientée Objet (POO)  
-- Architecture MVC  
-- API REST  
-- Structures de données  
-- Modélisation relationnelle (MCD / MLD)  
+J’apprécie particulièrement l’analyse d’applications existantes, la recherche de bugs, la conception de bases de données et le développement de solutions répondant à des besoins professionnels concrets.
 
 ---
 
-# Projets
+## 💻 Compétences techniques
 
-## NEMESIA — Jeu 2D en Java/JavaFX
-- Développement d’un jeu inspiré de Terraria  
-- Gestion des déplacements, du saut, de la gravité et des collisions  
-- Implémentation d’un système d’inventaire et de dégâts  
-- Utilisation d’une architecture MVC  
+### Langages
 
-## Machine virtuelle et environnement serveur
-- Installation et configuration d’une machine virtuelle sous Linux  
-- Mise en place d’Apache, PHP et MySQL/PostgreSQL  
-- Création d’un environnement de développement complet  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Base de données entreprise
-- Conception d’une base de données avec MCD / MLD  
-- Réalisation de requêtes SQL (création, insertion, jointures)  
-- Travail en équipe  
+### Frameworks et technologies
 
-## Site web collaboratif
-- Développement en HTML / CSS  
-- Travail en équipe avec répartition des tâches  
-- Projet lié aux Jeux Olympiques  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-## Site de gestion de buvette
-- Développement d’un site dynamique en PHP et JavaScript  
-- Utilisation de MySQL pour la gestion des données  
-- Interface utilisateur avec Bootstrap  
+### Bases de données et analyse
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
 
-# Expérience
+### Outils et environnement
 
-- Travail en équipe sur plusieurs projets  
-- Répartition des tâches et collaboration  
-- Développement d’applications complètes (front-end et back-end)  
-- Rédaction de documentation technique  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
----
+### Concepts
 
-# Formation
-
-BUT Informatique — IUT de Montreuil (Université Paris 8)  
-2024 – 2026  
-
-Baccalauréat Général  
-Spécialités : Mathématiques, NSI, Physique-Chimie  
-2023 – 2024  
-
----
-
-# Langues
-
-Anglais : B2  
-Tamoul : Natif  
+- Programmation orientée objet
+- Architecture MVC
+- Architecture backend
+- API REST
+- UML et Merise
+- Modélisation relationnelle et multidimensionnelle
+- Design patterns : Strategy, Factory, Singleton et Template Method
+- Requêtes SQL avancées et opérateurs OLAP
+- Authentification LDAP / Active Directory
+- Tests fonctionnels et débogage
 
 ---
 
-# Contact
+## 🏥 Stage AP-HP — Hôpital Avicenne
 
-Email : Thileepanedvin@gmail.com  
-GitHub : https://github.com/ThileepanEdvin  
-LinkedIn : https://linkedin.com/in/edvin-thileepan-85  
-Portfolio : https://edvin-dev.fr  
+Lors de mon stage de deuxième année de BUT Informatique, j’ai travaillé sur l’analyse et l’amélioration d’un prototype d’application web destiné au pilotage d’une **Unité de Diagnostic Rapide**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Edvin Thileepan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thileepanedvin@gmail.com) 
+### Missions réalisées
 
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+- Audit fonctionnel du prototype
+- Analyse du backend Java / Spring Boot
+- Étude des contrôleurs, services, DTO, entités et repositories
+- Intégration d’une authentification LDAP / Active Directory
+- Gestion des rôles à partir des groupes Active Directory
+- Utilisation de PostgreSQL pour les profils applicatifs
+- Correction des validations des dossiers patients
+- Amélioration de la gestion des utilisateurs
+- Tests fonctionnels, analyse des logs et vérifications SQL
+- Compilation avec Maven et déploiement sur une machine virtuelle Linux
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Technologies
+
+`Java` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `LDAP` · `Active Directory` · `Maven` · `Linux`
+
+---
+
+## 🚀 Projets principaux
+
+### 🎮 NEMESIA — Jeu 2D en Java / JavaFX
+
+Jeu inspiré de Terraria développé avec Java et JavaFX.
+
+- Déplacements, saut, gravité et collisions
+- Gestion des ennemis, projectiles et dégâts
+- Système d’inventaire et d’objets
+- Architecture MVC
+- Refactoring du code
+- Utilisation des design patterns Strategy, Factory, Singleton et Template Method
+- Tests JUnit
+
+**Technologies :** `Java` · `JavaFX` · `MVC` · `JUnit` · `Design Patterns`
+
+---
+
+### 🍹 Buvette 2.0 — Application web
+
+Application permettant de gérer une buvette et ses différents utilisateurs.
+
+- Gestion des comptes clients
+- Recharge du solde
+- Création et suivi des commandes
+- Gestion des produits et des stocks
+- Gestion des fournisseurs
+- Gestion des rôles : client, barman, gestionnaire et administrateur
+- Interaction entre l’interface et la base de données
+
+**Technologies :** `PHP` · `MySQL` · `JavaScript` · `HTML` · `CSS` · `Bootstrap`
+
+---
+
+### 📊 Analyse de données sur la qualité de l’air
+
+Projet réalisé à partir de données issues d’OpenAQ, World Cities et World Bank.
+
+- Nettoyage et intégration de plusieurs jeux de données
+- Conception d’une base de données relationnelle
+- Création d’un modèle multidimensionnel en constellation
+- Réalisation de requêtes SQL avancées
+- Utilisation de ROLLUP, CUBE et GROUPING SETS
+- Comparaison des performances des modèles
+- Création de visualisations interactives avec Qlik
+- Analyse de la pollution selon les pays, les villes et les périodes
+
+**Technologies :** `PostgreSQL` · `SQL` · `Qlik` · `OLAP` · `Modèle multidimensionnel`
+
+---
+
+### 🖥️ Environnement serveur et machine virtuelle
+
+- Installation et configuration d’une machine virtuelle Linux
+- Mise en place d’un environnement Java et PostgreSQL
+- Compilation d’un projet avec Maven
+- Génération et transfert d’un fichier JAR
+- Lancement d’une application dans un environnement serveur
+- Analyse des contraintes réseau, du proxy et du pare-feu
+
+**Technologies :** `Linux` · `VirtualBox` · `Java` · `Maven` · `PostgreSQL`
+
+---
+
+## 🎓 Formation
+
+### BUT Informatique  
+**IUT de Montreuil — Université Paris 8**
+
+Principaux domaines étudiés :
+
+- Développement d’applications
+- Programmation orientée objet
+- Bases de données SQL et NoSQL
+- Développement web
+- Réseaux et systèmes
+- Conception UML et Merise
+- Gestion de projet
+- Qualité et architecture logicielle
+
+### Baccalauréat général
+
+Spécialités :
+
+- Mathématiques
+- Numérique et Sciences Informatiques
+- Physique-Chimie
+
+---
+
+## 🌍 Langues
+
+- **Français :** langue maternelle
+- **Tamoul :** niveau C1
+- **Anglais :** niveau B2
+- **Espagnol :** niveau A2
+
+---
+
+## 📫 Contact
+
+- **Portfolio :** [edvin-dev.fr](https://edvin-dev.fr)
+- **GitHub :** [ThileepanEdvin](https://github.com/ThileepanEdvin)
+- **LinkedIn :** [Edvin Thileepan](https://linkedin.com/in/edvin-thileepan-85)
+- **Email :** [thileepanedvin@gmail.com](mailto:thileepanedvin@gmail.com)
+
+---
+
+<div align="center">
+
+### Merci d’avoir visité mon profil GitHub !
+
+</div>
